@@ -1,0 +1,3 @@
+/home/ali/Documents/Noroz/TicTakToe/build/CMakeFiles/app.dir
+/home/ali/Documents/Noroz/TicTakToe/build/CMakeFiles/edit_cache.dir
+/home/ali/Documents/Noroz/TicTakToe/build/CMakeFiles/rebuild_cache.dir
